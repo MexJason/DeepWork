@@ -11,5 +11,7 @@ The app has a subscription option which can be cancelled at any time in the sett
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
 Best Regards, 
+
 Jason Dubon 
+
 jasonsdubon@gmail.com
